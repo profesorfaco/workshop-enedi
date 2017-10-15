@@ -148,9 +148,3 @@ _____
 - [D3: gráfico de barras](https://visualizacion-uc.github.io/introduccion-js-d3/bloque-II/barras.html)
 - [Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
-
-_____
-
-## EL DESAFÍO
-
-El equipo organizador de ENEDI nos provee datos de las distintas escuelas de diseño, obtenidos en su gira nacional. El ejercicio que realizaremos intentará mostrar el panorama actual, a lo largo del país.
