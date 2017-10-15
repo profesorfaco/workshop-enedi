@@ -105,31 +105,36 @@ Para el ajuste y optimización a distintos dispositivos, se pueden tomar distint
 
 Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
 
+----
+
 #### HTML
 
 HTML (HyperText Markup Language en inglés) es un lenguaje usado para indicar el significado semántico de los contenidos de una página web. Esta indicación se hace a través de elementos, que se estructuran entre una serie de etiquetas.
 
-Así, por ejemplo, puedo indicar que el contenido `hola mundo` sea un elemento de encabezado de primer nivel (heading 1):
+Así, por ejemplo, puedo indicar que el contenido `Hola mundo!` sea un elemento de encabezado de primer nivel:
 
 ```
-<h1>hola mundo!</h1>
+<h1>Hola mundo!</h1>
 ```
 
-En la primera etiqueta también puedo agregar uno o varios atributos, con un par **nombre** y **"valor"**. 
+En la primera etiqueta también puedo agregar uno o varios **atributos**, con un par **nombre** y **"valor"**. 
 
 ```
-<h1 nombre=“valor”>hola mundo!</h1>
+<h1 nombre="valor">Hola mundo!</h1>
 ```
 
 Hay algunos elementos HTML que no tienen contenido, son pura etiqueta con atributo, así, por ejemplo:
 
 ```
-<img src="selfie.jpg" alt=“descripción de imagen”/>
+<img src="selfie.jpg" alt="descripción de imagen"/>
 ```
 
 Más información:
 
-- [Introduccón al HTML](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Introduction_alhtml)
+- [Introducción al HTML](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Introduction_alhtml)
+- [Curso básico de HTML desde 0](https://youtu.be/cqMfPS8jPys)
+
+----
 
 #### CSS
 
