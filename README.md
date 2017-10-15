@@ -109,7 +109,7 @@ Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría r
 
 ----
 
-#### HTML
+### HTML
 
 HTML (HyperText Markup Language en inglés) es un lenguaje usado para indicar el significado semántico de los contenidos de una página web. Esta indicación se hace a través de elementos, que se estructuran entre una serie de etiquetas.
 
@@ -138,7 +138,7 @@ Más información:
 
 ----
 
-#### CSS
+### CSS
 
 CSS (Cascading Style Sheets en inglés) es un lenguaje usado para definir la presentación de un documento escrito en HTML u otros lenguajes del tipo markup como SVG. Esta definición se hace a través de reglas, que se estructuran sobre el par **selector** y **declaración** 
 
@@ -160,7 +160,7 @@ Más información:
 - [Guía de desarrollo en CSS](https://developer.mozilla.org/es/docs/Web/Guide/CSS)
 
 
-#### JavaScript
+### JavaScript
 
 _____
 
