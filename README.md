@@ -52,7 +52,8 @@ _____
 
 [Bootstrap](http://getbootstrap.com/) es un framework de código abierto que simplifica la implementación de sitios y aplicaciones web responsivas (con páginas que se ajustan y optimizan a distintos dispositivos).
 
-[Bootstrap](http://getbootstrap.com/) ofrece documentos **CSS** que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento **HTML** actual. Además, ofrece componentes de **JavaScript**, basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
+[Bootstrap](http://getbootstrap.com/) ofrece documentos [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css
+) que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html) actual. Además, ofrece componentes de [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
 
 Para usar [Bootstrap](http://getbootstrap.com/) necesitamos iniciar un documento HTML con lo siguiente:
 
@@ -105,9 +106,7 @@ Para el ajuste y optimización a distintos dispositivos, se pueden tomar distint
 - tomar 2 cuando sea una pantalla grande (≥992px): `col-lg-2`
 - tomar 1 cuando sea una pantalla muy grande (≥1200px): `col-xl-1`
 
-Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
-
-----
+Ahora bien, si no estás muy familiarizado con [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html), [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css) y [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
 
 ### HTML
 
@@ -135,8 +134,7 @@ Más información:
 
 - [Introducción al HTML](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Introduction_alhtml)
 - [Curso básico de HTML desde 0](https://youtu.be/cqMfPS8jPys)
-
-----
+_
 
 ### CSS
 
@@ -158,7 +156,7 @@ Más información:
 
 - [Guía Breve de CSS](https://www.w3c.es/Divulgacion/GuiasBreves/HojasEstilo)
 - [Guía de desarrollo en CSS](https://developer.mozilla.org/es/docs/Web/Guide/CSS)
-
+_
 
 ### JavaScript
 
