@@ -108,6 +108,8 @@ Para el ajuste y optimización a distintos dispositivos, se pueden tomar distint
 
 Ahora bien, si no estás muy familiarizado con [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html), [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css) y [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
 
+
+
 ### HTML
 
 HTML (HyperText Markup Language en inglés) es un lenguaje usado para indicar el significado semántico de los contenidos de una página web. Esta indicación se hace a través de elementos, que se estructuran entre una serie de etiquetas.
@@ -134,7 +136,8 @@ Más información:
 
 - [Introducción al HTML](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Introduction_alhtml)
 - [Curso básico de HTML desde 0](https://youtu.be/cqMfPS8jPys)
-_
+
+
 
 ### CSS
 
@@ -156,15 +159,44 @@ Más información:
 
 - [Guía Breve de CSS](https://www.w3c.es/Divulgacion/GuiasBreves/HojasEstilo)
 - [Guía de desarrollo en CSS](https://developer.mozilla.org/es/docs/Web/Guide/CSS)
-_
+
 
 ### JavaScript
 
+JavaScript es un lenguaje de programación que, origintalmente, se ejecuta del [lado del cliente](https://es.wikipedia.org/wiki/Lado_del_cliente). Cuando lo hace, no modifica directamente la página web sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model) de la misma. 
+
+Podemos seguirle la pista a la ejecución de Javascript mediante la [Consola](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
+
+El código JavaScript se puede incluir o vincular al documento HTML entre etiquetas `<script></script>` y en cualquier parte del documento, aunque se suele ubicar según la prioridad de carga (si ejecuta algo clave, va arriba; si su ejecución es secundaria respecto del texto, va abajo).
+
+Más información:
+
+- [Guía de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
+- [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 _____
 
 ## INTRODUCCIÓN A PHP
 
-Para construir ejecutar script de programación del lado del servidor, que nos permita estructurar de manera rápida un sitio web.
+Este lenguaje de programación se ejecuta [del lado del servidor](https://es.wikipedia.org/wiki/Script_del_lado_del_servidor), afectando al documento completo antes de que éste sea enviado al [cliente](https://es.wikipedia.org/wiki/Cliente_(inform%C3%A1tica)). Por esto, nunca aparece al “ver código fuente”, ni existe una Consola de PHP en los navegadores.
+
+Para que se ejecute PHP en sus computadores, se pueden usar programas como **[MAMP](https://www.mamp.info/en/)**, el que permite montar un servidor local. 
+
+Para escribir PHP en sus computadores deben usar el mismo programa de código que usan para escribe HTML. Es más, la diferencia radical de un documento `*.php` y un `*.html` es su extensión. Esta permite al servidor identificarlo como tal y buscar, entre lo que es HTML, un par de etiquetas de apertura y cierre particulares, que son `<?php` y `?>`, donde estarán las intrucciones que debe ejecutar.
+
+Entre `<?php` y `?>` se pueden escribir una o varias instrucciones. Si se escriben varias, éstas deben separarse mediante punto y coma `;`. Y si necesitan escribir comentarios de una línea, deben anteponer un doble slash `//`:
+
+```
+<?php 
+//por ejemplo, defino unos valores
+$a=2;
+$b=25;
+$c=$a*$b;
+print $c;
+?>
+```
+Lo que resulta de esto es [50](http://codepad.org/WgbXSmDM).
+
+Entre las instrucciones podemos aprovechar las funciones internas (incluídas) de PHP; es muy dificil que exista alguien capaz de aprender de memoria todas las `funciones()` que ofrece este lenguaje de programación, pero en el [sitio oficial de PHP](http://php.net/manual/es/langref.php), y en [varios lugares más](http://stackoverflow.com/questions/tagged/php), se puede encontrar mucha ayuda.
 
 _____
 
