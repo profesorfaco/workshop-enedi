@@ -20,7 +20,7 @@
 - Jueves 19 oct. —> análisis, formulación y prototipado.
 - Viernes 20 oct. —> reformulación, implementación y publicación.
 
-**Mientras que la sesión del miércoles 18, tendrá un formato de clase expositiva, las sesiones de jueves y viernes seguirán el formato [hackathon](https://es.wikipedia.org/wiki/Hackathon), en el sentido de una actividad de trabajo colaborativo, donde distintos grupos trabajan en la resolución de un problema de visualización de datos.**
+**Mientras que la sesión del miércoles tendrá un formato de clase expositiva, las sesiones de jueves y viernes seguirán el formato [hackathon](https://es.wikipedia.org/wiki/Hackathon), en el sentido de una actividad de trabajo colaborativo, donde distintos grupos resolverán un problema de visualización de datos.**
 
 _____
 
