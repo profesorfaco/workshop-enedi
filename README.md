@@ -8,11 +8,11 @@
 
 #### VISUALIZAR
 
-[10 of my professional sins](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
-[A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
-[The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [10 of my professional sins](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
+- [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 #### INTRODUCCIÓN A D3
 
-[INTRO TO D3.JS](http://square.github.io/intro-to-d3/)
-[d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
+- [INTRO TO D3.JS](http://square.github.io/intro-to-d3/)
+- [d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
