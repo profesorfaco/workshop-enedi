@@ -106,8 +106,7 @@ Para el ajuste y optimización a distintos dispositivos, se pueden tomar distint
 - tomar 2 cuando sea una pantalla grande (≥992px): `col-lg-2`
 - tomar 1 cuando sea una pantalla muy grande (≥1200px): `col-xl-1`
 
-Ahora bien, si no estás muy familiarizado con [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html), [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css) y [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
-
+Ahora bien, si no estás muy familiarizado con [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html), [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css) y [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la [INTRODUCCIÓN A PHP](https://github.com/profesorfaco/enedi#introducciÓn-a-php).
 
 
 ### HTML
@@ -202,7 +201,9 @@ _____
 
 ## INTRODUCCIÓN A FORMATOS DE DATOS
 
-ver presentación de ricardov.
+Podemos echar un vistazo a la introducción a los formatos de datos más conocidos y usados, preparada por [Ricardo Vega](https://issuu.com/ricardov_net/docs/datos_formatos_2016).
+
+Con lo revisado hasta ahora, podemos hacer dos ejercicio de visualización. En el primero podemos consultar y visualizar los datos de un CSV y en el segundo los datos de un JSON. Esta consulta y visualización la podemos hacer con PHP, y aprovechándonos de Bootstrap. 
 
 _____
 
