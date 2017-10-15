@@ -144,7 +144,9 @@ _____
 
 ## INTRODUCCIÓN A D3
 
-- [INTRO TO D3.JS](http://square.github.io/intro-to-d3/)
+- [Introducción D3](https://visualizacion-uc.github.io/introduccion-js-d3/bloque-I/d3.html)
+- [D3: gráfico de barras](https://visualizacion-uc.github.io/introduccion-js-d3/bloque-II/barras.html)
+- [Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
 
 _____
