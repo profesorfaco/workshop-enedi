@@ -52,8 +52,7 @@ _____
 
 [Bootstrap](http://getbootstrap.com/) es un framework de código abierto que simplifica la implementación de sitios y aplicaciones web responsivas (con páginas que se ajustan y optimizan a distintos dispositivos).
 
-[Bootstrap](http://getbootstrap.com/) ofrece documentos [CSS](https://github.com/profesorfaco/enedi/blob/master/README.md#css
-) que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento [HTML](https://github.com/profesorfaco/enedi/blob/master/README.md#html) actual. Además, ofrece componentes de [JavaScript](https://github.com/profesorfaco/enedi/blob/master/README.md#javascript), basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
+[Bootstrap](http://getbootstrap.com/) ofrece documentos [CSS](https://github.com/profesorfaco/enedi/wiki/CSS) que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento [HTML](https://github.com/profesorfaco/enedi/wiki/HTML) actual. Además, ofrece componentes de [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript), basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
 
 Para usar [Bootstrap](http://getbootstrap.com/) necesitamos iniciar un documento HTML con lo siguiente:
 
@@ -106,7 +105,7 @@ Para el ajuste y optimización a distintos dispositivos, se pueden tomar distint
 - tomar 2 cuando sea una pantalla grande (≥992px): `col-lg-2`
 - tomar 1 cuando sea una pantalla muy grande (≥1200px): `col-xl-1`
 
-Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). En caso necesiten un pequeño resumen, con información justa y necesaria para dar este paso, pueden [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki/HTML,-CSS-y-JavaScript). Si ya conoces esos lenguajes, bien puedes avanzar a la [INTRODUCCIÓN A PHP](https://github.com/profesorfaco/enedi#introducciÓn-a-php).
+Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). En caso necesiten un pequeño resumen, con información justa y necesaria para dar este paso, pueden [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, bien puedes avanzar a la [INTRODUCCIÓN A PHP](https://github.com/profesorfaco/enedi#introducciÓn-a-php).
 _____
 
 ## INTRODUCCIÓN A PHP
