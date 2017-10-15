@@ -52,18 +52,18 @@ _____
 
 [Bootstrap](http://getbootstrap.com/) ofrece documentos **CSS** que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento **HTML** actual. Además, ofrece componentes de **JavaScript**, basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
 
+Para usar [Bootstrap](http://getbootstrap.com/) necesitamos iniciar un documento HTML con lo siguiente:
+
 ```
 <!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Voy a buscar el CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
   </head>
   <body>
     <h1>Hola mundo!</h1>
-    <!-- Voy a buscar algo de JavaScript -->
     <!-- Este es el orden: primero jQuery, luego Popper.js, y al final Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
@@ -73,10 +73,62 @@ _____
 
 ```
 
+Luego, se puede cambiar el `<h1>Hola mundo!</h1>` por todo lo que conozcamos de HTML y sea considerado en el CSS de Bootstrap. Para esto, es necesario tener en cuanta que Bootstrap, por defecto, divide cada fila con una [grilla de 12 columnas](https://getbootstrap.com/docs/4.0/layout/grid/). Y pone a las filas dentro de contenedores, que pueden ser: 
+
+Fijos
+```
+<div class="container">
+ <div class="row">
+  <div class="col-6"><h1>Hola mundo!</h1></div>
+  <div class="col-6"><h2>Cómo estás?</h2></div>
+ </div>
+</div>
+```
+
+Fluidos
+```
+<div class="container-fluid">
+ <div class="row">
+  <div class="col-6"><h1>Hola mundo!</h1></div>
+  <div class="col-6"><h2>Cómo estás?</h2></div>
+ </div>
+</div>
+```
+
+Para el ajuste y optimización a distintos dispositivos, se pueden tomar distintas de filas de la grilla. Puedo, por ejemplo:
+
+- tomar 6 cuando sea una pantalla muy pequeña (<576px): `col-6`
+- tomar 4 cuando sea una pantalla pequeña (≥576px): `col-sm-4`
+- tomar 3 cuando sea una pantalla mediana (≥768px): `col-md-3`
+- tomar 2 cuando sea una pantalla grande (≥992px): `col-lg-2`
+- tomar 1 cuando sea una pantalla muy grande (≥1200px): `col-xl-1`
+
+Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). Por eso, lo que continúa es un pequeño resumen que busca entregarte la información justa y necesaria para dar este paso. Si ya conoces esos lenguajes, bien puedes avanzar a la INTRODUCCIÓN A PHP.
+
 #### HTML
 
 
 #### CSS
+
+CSS (Cascading Style Sheets en inglés) es un lenguaje usado para definir la presentación de un documento escrito en HTML u otros lenguajes del tipo markup como SVG. Esta definición se hace a través de reglas, que se estructuran sobre el par selector Y declaración 
+
+Así, por ejemplo, puedo definir que el <h1>hola mundo</h1> se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://es.wikipedia.org/wiki/Em_(tipograf%C3%ADa)), y en [rojo](https://en.wikipedia.org/wiki/Web_colors):
+```
+h1{
+font-family: Helvetica, sans-serif; 
+font-size: 2em;
+color: rgb(255,0,0);
+}
+```
+En este caso, el selector es `h1` y la declaración es todo lo contenido entre paréntesis de llave `{…}`
+
+Como pueden ver, la declaración contiene dentro suyo otros pares (propiedad: valor), separados unos de otros mediante punto y coma `;`.
+
+Más información sobre CSS:
+
+- [Guía Breve de CSS](https://www.w3c.es/Divulgacion/GuiasBreves/HojasEstilo)
+- [Guía de desarrollo en CSS](https://developer.mozilla.org/es/docs/Web/Guide/CSS)
+
 
 
 #### JavaScript
