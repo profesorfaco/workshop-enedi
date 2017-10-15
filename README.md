@@ -4,9 +4,9 @@
 
 #### A cargo de:
 
-**Felipe Cortez**. Diseñador gráfico y Magíster en Filosofía. Diplomado en Estética y Filosofía, Diseño de Interacción y Physical Computing, Docencia Universitaria. Interesado en temas de percepción, experiencia de usuario y visualización. Actualmente es docente en la escuela de [Diseño](http://diseno.uc.cl/persona/felipe-cortez/) de la PUC y la escuela de [pregrado FAU](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipe.cortez), UCh. En la PUC también es Coordinador del [Certificado Académico en Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/arquitectura-diseno-y-estudios-urbanos/escuela-de-diseno/desarrollo-de-productos-y-servicios-digitales).
+- **Felipe Cortez**. Diseñador gráfico y Magíster en Filosofía. Diplomado en Estética y Filosofía, Diseño de Interacción y Physical Computing, Docencia Universitaria. Interesado en temas de percepción, experiencia de usuario y visualización. Actualmente es docente en la escuela de [Diseño](http://diseno.uc.cl/persona/felipe-cortez/) de la PUC y la escuela de [pregrado FAU](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipe.cortez), UCh. En la PUC también es Coordinador del [Certificado Académico en Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/arquitectura-diseno-y-estudios-urbanos/escuela-de-diseno/desarrollo-de-productos-y-servicios-digitales).
 
-**Ricardo Vega**. Diseñador y artista, MFA Design and Technology (Parsons, The New School), trabaja en temas relativos a la visualización de información, programación aplicada en el diseño y el arte. Tiene particular interés en temas relativos a la tecnología y sus implicancias sociales, culturales y artisticas. Actualmente es docente en las escuelas de [Diseño](http://diseno.uc.cl/persona/ricardo-vega/) e [Ingeniería](https://www.ing.uc.cl/academicos-e-investigadores/ricardo-leonardo-vega-mora/) de la PUC. En la PUC también es Jefe del [Diplomado en Visualización de datos](http://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/). 
+- **Ricardo Vega**. Diseñador y artista, MFA Design and Technology (Parsons, The New School), trabaja en temas relativos a la visualización de información, programación aplicada en el diseño y el arte. Tiene particular interés en temas relativos a la tecnología y sus implicancias sociales, culturales y artisticas. Actualmente es docente en las escuelas de [Diseño](http://diseno.uc.cl/persona/ricardo-vega/) e [Ingeniería](https://www.ing.uc.cl/academicos-e-investigadores/ricardo-leonardo-vega-mora/) de la PUC. En la PUC también es Jefe del [Diplomado en Visualización de datos](http://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/). 
 
 #### Serán 3 sesiones: 
 
@@ -107,6 +107,29 @@ Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría r
 
 #### HTML
 
+HTML (HyperText Markup Language en inglés) es un lenguaje usado para indicar el significado semántico de los contenidos de una página web. Esta indicación se hace a través de elementos, que se estructuran entre una serie de etiquetas.
+
+Así, por ejemplo, puedo indicar que el contenido `hola mundo` sea un elemento de encabezado de primer nivel (heading 1):
+
+```
+<h1>hola mundo!</h1>
+```
+
+En la primera etiqueta también puedo agregar uno o varios atributos, con un par **nombre** y **"valor"**. 
+
+```
+<h1 nombre=“valor”>hola mundo!</h1>
+```
+
+Hay algunos elementos HTML que no tienen contenido, son pura etiqueta con atributo, así, por ejemplo:
+
+```
+<img src="selfie.jpg" alt=“descripción de imagen”/>
+```
+
+Más información:
+
+- [Introduccón al HTML](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Introduction_alhtml)
 
 #### CSS
 
@@ -124,11 +147,10 @@ En este caso, el selector es `h1` y la declaración es todo lo contenido entre p
 
 Como pueden ver, la declaración contiene dentro suyo otros pares (**propiedad** y **valor**), separados unos de otros mediante punto y coma `;`.
 
-Más información sobre CSS:
+Más información:
 
 - [Guía Breve de CSS](https://www.w3c.es/Divulgacion/GuiasBreves/HojasEstilo)
 - [Guía de desarrollo en CSS](https://developer.mozilla.org/es/docs/Web/Guide/CSS)
-
 
 
 #### JavaScript
