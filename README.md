@@ -191,10 +191,10 @@ Entre `<?php` y `?>` se pueden escribir una o varias instrucciones. Si se escrib
 $a=2;
 $b=25;
 $c=$a*$b;
-print $c;
 ?>
+<p><?php print $c; ?></p>
 ```
-Lo que resulta de esto es [50](http://codepad.org/WgbXSmDM).
+Lo que resulta de esto es un [elemento HTML párrafo con un contenido "50"](http://codepad.org/ASfDKGBe).
 
 Entre las instrucciones podemos aprovechar las funciones internas (incluídas) de PHP; es muy dificil que exista alguien capaz de aprender de memoria todas las `funciones()` que ofrece este lenguaje de programación, pero en el [sitio oficial de PHP](http://php.net/manual/es/langref.php), y en [varios lugares más](http://stackoverflow.com/questions/tagged/php), se puede encontrar mucha ayuda.
 
