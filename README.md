@@ -110,7 +110,7 @@ Ahora bien, si no estás muy familiarizado con HTML, CSS y JavaScript, podría r
 
 #### CSS
 
-CSS (Cascading Style Sheets en inglés) es un lenguaje usado para definir la presentación de un documento escrito en HTML u otros lenguajes del tipo markup como SVG. Esta definición se hace a través de reglas, que se estructuran sobre el par selector Y declaración 
+CSS (Cascading Style Sheets en inglés) es un lenguaje usado para definir la presentación de un documento escrito en HTML u otros lenguajes del tipo markup como SVG. Esta definición se hace a través de reglas, que se estructuran sobre el par **selector** y **declaración** 
 
 Así, por ejemplo, puedo definir que el `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://es.wikipedia.org/wiki/Em_(tipograf%C3%ADa)), y en [rojo](https://en.wikipedia.org/wiki/Web_colors):
 ```
@@ -122,7 +122,7 @@ color: rgb(255,0,0);
 ```
 En este caso, el selector es `h1` y la declaración es todo lo contenido entre paréntesis de llave `{…}`
 
-Como pueden ver, la declaración contiene dentro suyo otros pares (propiedad y valor), separados unos de otros mediante punto y coma `;`.
+Como pueden ver, la declaración contiene dentro suyo otros pares (**propiedad** y **valor**), separados unos de otros mediante punto y coma `;`.
 
 Más información sobre CSS:
 
