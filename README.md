@@ -42,25 +42,28 @@ Ahora salgamos del texto de Boehm y quedemos en el mismo año. En **1786**, Thom
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista).
+**En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista)**.
 
-Para evitar confusiones, parece más seguro avanzar a trabajos de la segunda mitad del siglo XIX, que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos, en tanto se trata de trabajos que nos entregan la posibilidad de comprender lo uno, que no puede verse, mientras lo otro es dado a la vista.
+Para evitar confusiones, parece más seguro avanzar a **trabajos de la segunda mitad del siglo XIX, que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos**, en tanto se trata de trabajos que nos entregan la posibilidad de comprender lo uno, que no puede verse, mientras lo otro es dado a la vista.
 
-Entre estos trabajo está el de [John Snow](https://es.wikipedia.org/wiki/John_Snow) (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante una configuración visual que muestra las ubicación de bombas de agua y las muertes ocurridas en el área de Broad Street (1854):
+Entre estos trabajos está el de [John Snow](https://es.wikipedia.org/wiki/John_Snow) (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante una configuración visual que muestra las ubicación de bombas de agua y las muertes ocurridas en el área de Broad Street (1854):
 
 ![John Snow](http://johnsnow.matrix.msu.edu/images/online_companion/chapter_images/fig12-5.jpg)
 
-Otra referencia habitual es "Mapa figurativo de las sucesivas pérdidas de hombres de la Armada Francesa en la campaña de Rusia 1812-1813" de [Charles Joseph Minard](https://es.wikipedia.org/wiki/Charles_Joseph_Minard) (1781-1870), elaborado en 1869 y consirado, por [Edward Tufte](https://www.edwardtufte.com/tufte/posters), como el mejor gráfico estadístico jamás dibujado. 
+Otra referencia habitual es "Mapa figurativo de las sucesivas pérdidas de hombres de la Armada Francesa en la campaña de Rusia 1812-1813" de [Charles Joseph Minard](https://es.wikipedia.org/wiki/Charles_Joseph_Minard) (1781-1870), elaborado en 1869 y consirado hasta hoy en día, por indicación de [Edward Tufte](https://www.edwardtufte.com/tufte/posters), como uno de los mejores gráfico estadístico jamás dibujados. 
 
 ![Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
-A lo presentado, y para cerrar la introducción a la visualización, podemos sumar:
+A lo presentado, y para cerrar la introducción a la visualización de datos, pueden sumar una revisión de:
+
+- [La visualización de datos como nueva abstracción y antisublime (Lev Manovich)](http://estudiosvisuales.net/revista/pdf/num5/manocivh_visualizacion.pdf)
+- [Para qué sirve la visualización (Ricardo Vega)](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
+
+Y para trabajar con visualización de datos, sería útil considerar:
 
 - [10 of my professional sins (Xaquín González Veira)](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
 - [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
-- [La visualización de datos como nueva abstracción y antisublime (Lev Manovich)](http://estudiosvisuales.net/revista/pdf/num5/manocivh_visualizacion.pdf)
 - [Principles of Information Display for Visualization Practitioners](http://www2.cs.uregina.ca/~rbm/cs100/notes/spreadsheets/tufte_paper.html)
-- [Para qué sirve la visualización (Ricardo Vega)](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
 - [Quick reference guides for learning how to use and how to hack RAW Graphs](http://rawgraphs.io/learning/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
