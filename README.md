@@ -22,7 +22,7 @@
 
 **Mientras que la sesión del miércoles tendrá un formato de clase expositiva, las sesiones de jueves y viernes seguirán el formato [hackathon](https://es.wikipedia.org/wiki/Hackathon), en el sentido de una actividad de trabajo colaborativo, donde distintos grupos resolverán un problema de visualización de datos.**
 
-Necesitamos contar, en las tres sesiones, con computadores provistos de algún [programa de edición de código](https://1stwebdesigner.com/free-coding-software/): Sublime Text, Atom, Notepad++, etc. Además, podrían instalar [MAMP (Free)](https://www.mamp.info/en/), y sacar una cuenta en [GitHub](https://github.com/).
+Necesitamos contar, en las tres sesiones, con computadores provistos de algún [programa de edición de código](https://1stwebdesigner.com/free-coding-software/): Sublime Text, Atom, Notepad++, etc. Además, podrían instalar [MAMP (Free)](https://www.mamp.info/en/), y obtener una cuenta en [GitHub](https://github.com/).
 
 _____
 
