@@ -32,17 +32,17 @@ A continuación, un par de ideas obtenidas de: Boehm, Gottfried (2011) *¿Más a
 
 «Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica. La gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque **permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo más abstracto (…) a una configuración visual que muestra lo que nunca podría verse** sin más en columnas de números. Con la gráfica la representación estadísticas se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de las coordenadas x e y, la abscisa y la ordenada, cuya relación matemática se muestra mediante la solución sobre el plano». (Boehm 2010:104-105) 
 
-En el texto de Boehm, se ejemplifica su punto con una publicación de 1786, donde se hacía evidente el balance a favor de Inglaterra:
+Boehm ejemplifica estas ideas con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair), el padre de los gráficos de estadstica:
 
 ![Playfair](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1200px-Playfair_TimeSeries-2.png)
 
-En el mismo 1876 se publica el “Essay on the Slavery and Commerce of Human Species”, que muestra lo que no quería verse:
+En el mismo **1876** se publica el “Essay on the Slavery and Commerce of Human Species”, que muestra lo que no quería verse:
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-Recién en el siglo XIX se publicarán trabajos que, hasta hoy día, son referencia habitual para el origen de la visualización de datos.
+Recién en el siglo XIX se publicarán trabajos que, hasta hoy en día, son referencia habitual al momento de hablar del origen de la visualización de datos.
 
-Entre estas referencias habituales está el trabajo de John Snow (1813-1858), el padre de la epidemiología moderna, quien descubre los focos del cólera mediante un mapa de las muertes ocurridas en el área de Broad Street (1854):
+Entre estas referencias está el trabajo de John Snow (1813-1858), el padre de la epidemiología moderna, quien descubre los focos del cólera mediante un mapa de las muertes ocurridas en el área de Broad Street (1854):
 
 ![John Snow](http://johnsnow.matrix.msu.edu/images/online_companion/chapter_images/fig12-5.jpg)
 
