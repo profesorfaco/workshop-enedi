@@ -46,11 +46,11 @@ En lo recién presentado tenemos, primero, un visualizar (representar mediante i
 
 Para evitar confusiones, parece más seguro avanzar a trabajos de la segunda mitad del siglo XIX, que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos, en tanto se trata de trabajos que nos entregan la posibilidad de comprender lo uno, que no puede verse, mientras lo otro es dado a la vista.
 
-Entre estos trabajo está el de John Snow (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante un mapa que muestra las muertes ocurridas en el área de Broad Street (1854):
+Entre estos trabajo está el de [John Snow](https://es.wikipedia.org/wiki/John_Snow) (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante una configuración visual que muestra las ubicación de bombas de agua y las muertes ocurridas en el área de Broad Street (1854):
 
 ![John Snow](http://johnsnow.matrix.msu.edu/images/online_companion/chapter_images/fig12-5.jpg)
 
-Otra de estas referencias es Charles Joseph Minard (1781-1870), [reconocido hasta por Edward Tufte](https://www.edwardtufte.com/tufte/posters) por el trabajo que, en 1869, mostraba el recorrido y las bajas en la Campaña Rusa de Napoleón.
+Otra referencia habitual es "Mapa figurativo de las sucesivas pérdidas de hombres de la Armada Francesa en la campaña de Rusia 1812-1813" de [Charles Joseph Minard](https://es.wikipedia.org/wiki/Charles_Joseph_Minard) (1781-1870), elaborado en 1869 y consirado, por [Edward Tufte](https://www.edwardtufte.com/tufte/posters), como el mejor gráfico estadístico jamás dibujado. 
 
 ![Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
