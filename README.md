@@ -30,17 +30,17 @@ A continuación, un par de ideas obtenidas de: Boehm, Gottfried (2011) *¿Más a
 
 «**Cuando hablo de imágenes (bidimensionales, plásticas, técnicas, espaciales, etc.), me refiero a una diferencia según la cual** uno o varios focos temáticos, vinculados por nuestra atención, refieren a un campo no temático. Es decir, que **vemos lo uno en lo otro**.» (Boehm 2010:101)
 
-«Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica (orginalmente: *das Diagramm*; mejor traducción podría ser representación gráfica). La [representación] gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque **permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo más abstracto (…) a una configuración visual que muestra lo que nunca podría verse** sin más en columnas de números. Con la gráfica la representación estadísticas se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de las coordenadas x e y, la abscisa y la ordenada, cuya relación matemática se muestra mediante la solución sobre el plano». (Boehm 2010:104-105) 
+«Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica (en versión original: *das Diagramm*; mejor traducción podría ser diagrama o representación gráfica). La [representación] gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque **permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo más abstracto (…) a una configuración visual que muestra lo que nunca podría verse** sin más en columnas de números. Con la gráfica la representación estadísticas se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de las coordenadas x e y, la abscisa y la ordenada, cuya relación matemática se muestra mediante la solución sobre el plano». (Boehm 2010:104-105) 
 
-Boehm ejemplifica estas ideas con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair), el padre de los gráficos de estadística:
+Boehm ilustra su texto con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair), el padre de los gráficos de estadística:
 
 ![Playfair](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1200px-Playfair_TimeSeries-2.png)
 
-En el mismo **1876**, Thomas Clarkson publica “[An Essay on the Slavery and Commerce of the Human Species](http://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species)”, donde muestra lo que no quería verse:
+Ahora salgamos del texto de Boehm y quedemos en el mismo año. En **1876**, Thomas Clarkson publica “[An Essay on the Slavery and Commerce of the Human Species](http://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species)”, donde una representación gráfica muestra lo que no quería verse:
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-Recién en el siglo XIX se publicarán trabajos que, hasta hoy en día, son referencia habitual al momento de hablar del origen de la visualización de datos.
+Recién en el siglo XIX se publicarán trabajos que, hasta hoy en día, son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos.
 
 Entre estos trabajo está el de John Snow (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante un mapa que muestra las muertes ocurridas en el área de Broad Street (1854):
 
