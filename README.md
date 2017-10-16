@@ -28,25 +28,25 @@ _____
 
 A continuación, un par de ideas obtenidas de: Boehm, Gottfried (2011) *¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes*. En: Ana García Varas (Ed.) Filosofía de la imagen (87-106). Salamanca: Ediciones Universidad de Salamanca.
 
-«Cuando hablo de imágenes (bidimensionales, plásticas, técnicas, espaciales, etc.), me refiero a una diferencia según la cual uno o varios focos temáticos, vinculados por nuestra atención, refieren a un campo no temático. Es decir, que vemos lo uno en lo otro.» (Boehm 2010:101)
+«**Cuando hablo de imágenes (bidimensionales, plásticas, técnicas, espaciales, etc.), me refiero a una diferencia según la** cual uno o varios focos temáticos, vinculados por nuestra atención, refieren a un campo no temático. Es decir, **que vemos lo uno en lo otro**.» (Boehm 2010:101)
 
 «Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica. La gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque **permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo más abstracto (…) a una configuración visual que muestra lo que nunca podría verse** sin más en columnas de números. Con la gráfica la representación estadísticas se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de las coordenadas x e y, la abscisa y la ordenada, cuya relación matemática se muestra mediante la solución sobre el plano». (Boehm 2010:104-105) 
 
-Boehm ejemplifica estas ideas con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair), el padre de los gráficos de estadstica:
+Boehm ejemplifica estas ideas con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair), el padre de los gráficos de estadística:
 
 ![Playfair](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1200px-Playfair_TimeSeries-2.png)
 
-En el mismo **1876** se publica el “Essay on the Slavery and Commerce of Human Species”, que muestra lo que no quería verse:
+En el mismo **1876**, Thomas Clarkson publica “[An Essay on the Slavery and Commerce of the Human Species](http://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species)”, donde muestra lo que no quería verse:
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
 Recién en el siglo XIX se publicarán trabajos que, hasta hoy en día, son referencia habitual al momento de hablar del origen de la visualización de datos.
 
-Entre estas referencias está el trabajo de John Snow (1813-1858), el padre de la epidemiología moderna, quien descubre los focos del cólera mediante un mapa de las muertes ocurridas en el área de Broad Street (1854):
+Entre estos trabajo está el de John Snow (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante un mapa que muestra las muertes ocurridas en el área de Broad Street (1854):
 
 ![John Snow](http://johnsnow.matrix.msu.edu/images/online_companion/chapter_images/fig12-5.jpg)
 
-Otra de estas referencias es el trabajo de Charles Joseph Minard (1781-1870), reconocido hasta por Tufte por el trabajo que, en 1869, describían en una imagen el recorrido y las bajas en la Campaña Rusa de Napoleón.
+Otra de estas referencias es Charles Joseph Minard (1781-1870), [reconocido hasta por Edward Tufte](https://www.edwardtufte.com/tufte/posters) por el trabajo que, en 1869, mostraba el recorrido y las bajas en la Campaña Rusa de Napoleón.
 
 ![Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
