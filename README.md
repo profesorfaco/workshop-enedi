@@ -40,7 +40,7 @@ Ahora salgamos del texto de Boehm y quedemos en el mismo año. En **1786**, Thom
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-Recién en la segunda mitad del siglo XIX se publicarán trabajos que, hasta hoy en día, son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos.
+Más tarde, en la segunda mitad del siglo XIX, se publicarán trabajos que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos.
 
 Entre estos trabajo está el de John Snow (1813-1858), [el padre de la epidemiología moderna](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-10182007000400014), quien descubre los focos del cólera mediante un mapa que muestra las muertes ocurridas en el área de Broad Street (1854):
 
@@ -52,10 +52,11 @@ Otra de estas referencias es Charles Joseph Minard (1781-1870), [reconocido hast
 
 A lo presentado, y para cerrar la introducción a la visualización, podemos sumar:
 
-- [10 of my professional sins](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
+- [10 of my professional sins (Xaquín González Veira)](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
 - [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [La visualización de datos como nueva abstracción y antisublime (Lev Manovich)](http://estudiosvisuales.net/revista/pdf/num5/manocivh_visualizacion.pdf)
 - [Principles of Information Display for Visualization Practitioners](http://www2.cs.uregina.ca/~rbm/cs100/notes/spreadsheets/tufte_paper.html)
-- [Para qué sirve la visualización](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
+- [Para qué sirve la visualización (Ricardo Vega)](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 En lo que sigue, presentaremos una serie de introducciones breves, necesarias para el trabajo a desarrollarse los días jueves y viernes.
@@ -112,7 +113,7 @@ Fluidos
 </div>
 ```
 
-Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, recomendamos [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces estos lenguajes, puedes revisar el contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
+En caso que no estás muy familiarizado con HTML, CSS ni JavaScript, recomendamos [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces estos lenguajes, puedes revisar el contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
 _____
 
 ## INTRODUCCIÓN A PHP
