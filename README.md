@@ -32,15 +32,30 @@ A continuación, un par de ideas obtenidas de: Boehm, Gottfried (2011) *¿Más a
 
 «Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica. La gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque **permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo más abstracto (…) a una configuración visual que muestra lo que nunca podría verse** sin más en columnas de números. Con la gráfica la representación estadísticas se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de las coordenadas x e y, la abscisa y la ordenada, cuya relación matemática se muestra mediante la solución sobre el plano». (Boehm 2010:104-105) 
 
+En el texto de Boehm, se ejemplifica su punto con una publicación de 1786, donde se hacía evidente el balance a favor de Inglaterra:
+
 ![Playfair](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Playfair_TimeSeries-2.png/1200px-Playfair_TimeSeries-2.png)
 
-**¿Y de qué sirve trasladar lo más abstracto a una configuración visual que muestra lo que nunca podría verse? Podemos buscar la respuesta en esta presentación de Ricardo Vega: [para qué sirve la visualización](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)**
+En el mismo 1876 se publica el “Essay on the Slavery and Commerce of Human Species”, que muestra lo que no quería verse:
+
+![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
+
+Recién en el siglo XIX se publicarán trabajos que, hasta hoy día, son referencia habitual para el origen de la visualización de datos.
+
+Entre estas referencias habituales está el trabajo de John Snow (1813-1858), el padre de la epidemiología moderna, quien descubre los focos del cólera mediante un mapa de las muertes ocurridas en el área de Broad Street (1854):
+
+![John Snow](http://johnsnow.matrix.msu.edu/images/online_companion/chapter_images/fig12-5.jpg)
+
+Otra de estas referencias es el trabajo de Charles Joseph Minard (1781-1870), reconocido hasta por Tufte por el trabajo que, en 1869, describían en una imagen el recorrido y las bajas en la Campaña Rusa de Napoleón.
+
+![Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
 A lo presentado, y para cerrar la introducción a la visualización, podemos sumar:
 
 - [10 of my professional sins](https://medium.com/xocas/look-what-you-made-me-do-i-illustrated-10-of-my-professional-sins-bb53028553a)
 - [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 - [Principles of Information Display for Visualization Practitioners](http://www2.cs.uregina.ca/~rbm/cs100/notes/spreadsheets/tufte_paper.html)
+- [Para qué sirve la visualización](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 En lo que sigue, presentaremos una serie de introducciones breves, necesarias para el trabajo a desarrollarse los días jueves y viernes.
