@@ -6,7 +6,7 @@
 
 - **Felipe Cortez**. Diseñador gráfico y Magíster en Filosofía. Interesado en percepción, experiencia de usuario y visualización. Actualmente es docente en las escuelas de Diseño de la [UC](http://diseno.uc.cl/persona/felipe-cortez/) y la [UCH](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipe.cortez). También es Coordinador del [Certificado Académico en Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/arquitectura-diseno-y-estudios-urbanos/escuela-de-diseno/desarrollo-de-productos-y-servicios-digitales) de la UC.
 
-- **Ricardo Vega**. Diseñador y artista, MFA Design and Technology (Parsons, The New School). Interesado tecnología y sus implicancias sociales, culturales y artisticas. Actualmente es docente en las escuelas de [Diseño](http://diseno.uc.cl/persona/ricardo-vega/) e [Ingeniería](https://www.ing.uc.cl/academicos-e-investigadores/ricardo-leonardo-vega-mora/) de la UC. También es Jefe del [Diplomado en Visualización de datos](http://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/) de Diseño UC. 
+- **Ricardo Vega**. Diseñador y artista, MFA Design and Technology (Parsons, The New School). Interesado en tecnología y sus implicancias sociales, culturales y artisticas. Actualmente es docente en las escuelas de [Diseño](http://diseno.uc.cl/persona/ricardo-vega/) e [Ingeniería](https://www.ing.uc.cl/academicos-e-investigadores/ricardo-leonardo-vega-mora/) de la UC. También es Jefe del [Diplomado en Visualización de datos](http://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/) de Diseño UC. 
 
 #### Serán 3 sesiones: 
 
