@@ -97,7 +97,7 @@ Fluidos
 </div>
 ```
 
-Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, se recomienda [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, puedes echarle un vistazo al contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
+Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, recomendamos [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces estos lenguajes, puedes revisar el contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
 _____
 
 ## INTRODUCCIÓN A PHP
