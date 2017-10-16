@@ -59,6 +59,7 @@ A lo presentado, y para cerrar la introducción a la visualización, podemos sum
 - [La visualización de datos como nueva abstracción y antisublime (Lev Manovich)](http://estudiosvisuales.net/revista/pdf/num5/manocivh_visualizacion.pdf)
 - [Principles of Information Display for Visualization Practitioners](http://www2.cs.uregina.ca/~rbm/cs100/notes/spreadsheets/tufte_paper.html)
 - [Para qué sirve la visualización (Ricardo Vega)](https://issuu.com/ricardov_net/docs/cuidadanohackathon_07_2017ok)
+- [Quick reference guides for learning how to use and how to hack RAW Graphs](http://rawgraphs.io/learning/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 En lo que sigue, presentaremos una serie de introducciones breves, necesarias para el trabajo a desarrollarse los días jueves y viernes.
