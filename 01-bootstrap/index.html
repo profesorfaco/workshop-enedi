@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+      <div class="container">
+         <h1>Hola mundo <span class="badge badge-primary">Bootstrap</span></h1>
+         <p class="lead">Esto ayudará a familiarizarnos con el sistema de las 12 columnas de Bootstrap.</p>
+         <p>Ya dijimos, Bootstrap es un framework de código abierto que simplifica la implementación de sitios y aplicaciones web responsivas (con páginas que se ajustan y optimizan a distintos dispositivos).</p>
+         <p>También dijimos que Bootstrap ofrece un sistema que, por defecto, divide cada fila (<code>.row</code>) en 12 columnas. Una fila se ubica dentro de un contenedor (<code>.container</code>; <code>.container-fluid</code>) y, en algunos casos, <a href="#inception">dentro de una columna</a>.</p>
+         <hr/>
+         <h4>Hay 5 condiciones</h4>
+         <p>Con 5 condiciones, Boostrap nos ofrece la posibilidad de seleccionar cantidades de columnas según se trate de pantallas (1) muy pequeñas, (2) pequeñas, (3) medianas, (4) grandes o (5) muy grandes. Estas condiciones son prefijos de clases.</p>
+         <table class="table table-bordered table-striped table-responsive">
+            <thead>
+               <tr>
+                  <th></th>
+                  <th class="text-center">
+                     Extra small<br />
+                     <small>&lt;576px</small>
+                  </th>
+                  <th class="text-center">
+                     Small<br />
+                     <small>&ge;576px</small>
+                  </th>
+                  <th class="text-center">
+                     Medium<br />
+                     <small>&ge;768px</small>
+                  </th>
+                  <th class="text-center">
+                     Large<br />
+                     <small>&ge;992px</small>
+                  </th>
+                  <th class="text-center">
+                     Extra large<br />
+                     <small>&ge;1200px</small>
+                  </th>
+               </tr>
+            </thead>
+            <tbody>
+               <tr>
+                  <th class="text-nowrap" scope="row">Prefijos de las clases</th>
+                  <td class="text-center"><code>.col-</code></td>
+                  <td class="text-center"><code>.col-sm-</code></td>
+                  <td class="text-center"><code>.col-md-</code></td>
+                  <td class="text-center"><code>.col-lg-</code></td>
+                  <td class="text-center"><code>.col-xl-</code></td>
+               </tr>
+               <tr>
+                  <th class="text-nowrap" scope="row">Ancho del contenedor</th>
+                  <td class="text-center">None (auto)</td>
+                  <td class="text-center">≥ 540px</td>
+                  <td class="text-center">≥ 720px</td>
+                  <td class="text-center">≥ 960px</td>
+                  <td class="text-center">≥ 1140px</td>
+               </tr>
+            </tbody>
+         </table>
+         <hr/>
+         <h4>Usando las condiciones</h4>
+         <p>Apliquemos el mismo criterio para todos los casos que siguen: <strong>Tomemos 4 columnas del sistema de 12 columnas, esto implica dividir la fila en 3 partes (3 x 4 = 12)</strong>. Si ajustamos el tamaño de la ventana del navegador, podremos ver cómo es que esa división se mantiene cuando se cumple con la condición de tratarse de una pantalla (1) muy pequeña, (2) pequeña, (3) mediana, (4) grande o (5) muy grande.</p>
+         <div class="row">
+            <div class="col-4"><code>.col-4</code> (muy pequeña)</div>
+            <div class="col-4"><code>.col-4</code></div>
+            <div class="col-4"><code>.col-4</code></div>
+         </div>
+         <div class="row">
+            <div class="col-sm-4"><code>.col-sm-4</code> (pequeña; small)</div>
+            <div class="col-sm-4"><code>.col-sm-4</code></div>
+            <div class="col-sm-4"><code>.col-sm-4</code></div>
+         </div>
+         <div class="row">
+            <div class="col-md-4"><code>.col-md-4</code> (mediana; medium)</div>
+            <div class="col-md-4"><code>.col-md-4</code></div>
+            <div class="col-md-4"><code>.col-md-4</code></div>
+         </div>
+         <div class="row">
+            <div class="col-lg-4"><code>.col-lg-4</code> (grande; large)</div>
+            <div class="col-lg-4"><code>.col-lg-4</code></div>
+            <div class="col-lg-4"><code>.col-lg-4</code></div>
+         </div>
+         <div class="row">
+            <div class="col-xl-4"><code>.col-xl-4</code> (muy grande; extra large)</div>
+            <div class="col-xl-4"><code>.col-xl-4</code></div>
+            <div class="col-xl-4"><code>.col-xl-4</code></div>
+         </div>
+         <hr/>
+         <h4 id="inception">Filas dentro de columnas</h4>
+         <p><strong>Anidando filas dentro de columnas podemos crear nuevas divisiones</strong>. Esto significa: Dentro de una columna podemos crear nuevas columnas, si y solo si antes definimos que se encuentran dentro de una fila. Veamos un ejemplo:</p>
+         <div class="alert alert-info">
+            <pre><code class="language-html" data-lang="html">
+  &lt;div class="row"&gt;
+    &lt;div class="col-md-8"&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-6">Tomo 6 de 12 columnas.&lt;/div&gt;
+        &lt;div class="col-6">Tomo 6 de 12 columnas.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4"&gt;Tomo 4 de 12 columnas.&lt;/div&gt;
+  &lt;/div&gt;
+</code></pre>
+         </div>
+         <p>El resultado es el siguiente: </p>
+         <div class="row">
+            <div class="col-md-8">
+               <div class="row">
+                  <div class="col-6">.col-6</div>
+                  <div class="col-6">.col-6</div>
+               </div>
+            </div>
+            <div class="col-md-4">.col-md-4</div>
+         </div>
+         <hr />
+         <h3>¿Y qué más?</h3>
+         <p>Además del sistema de 12 columnas, podemos encontrar distintos componentes, tales como la <a href="https://v4-alpha.getbootstrap.com/components/progress/" target="_blank">barra de progreso</a>:</p>
+         <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+               25%
+            </div>
+            <!--/progress-bar-->
+         </div>
+         <!--/progress-->
+         <hr />
+         <p>La barra de progreso es un ejemplo entre 21 componentes que podríamos aprovechar. Para conocer los contenidos, componentes, utilidades y extensiones de Bootstrap, podemos consultar en las <a href="https://getbootstrap.com/docs/4.0/components/alerts/" target="_blank">páginas de documentación correspondientes</a>.</p>
+         <hr />
+         <footer>
+            <p>Taller: Visualización de Datos <span class="float-right">Bajo una <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a></span></p>
+         </footer>
+      </div>
+      <!-- /container -->
+      <!-- Este es el orden: primero jQuery, luego Popper.js, y al final Bootstrap JS -->
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+   </body>
+</html>
