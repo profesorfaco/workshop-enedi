@@ -54,7 +54,7 @@ _____
 
 [Bootstrap](http://getbootstrap.com/) ofrece documentos [CSS](https://github.com/profesorfaco/enedi/wiki/CSS) que describen tipografía, formularios, botones y otros elementos de diseño necesarios para presentar un documento [HTML](https://github.com/profesorfaco/enedi/wiki/HTML) actual. Además, ofrece componentes de [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript), basados en la biblioteca [jQuery](https://jquery.com/), que aportan al ajuste y optimización del menú principal en distintos dispositivos, además del despliegue de [popovers](https://v4-alpha.getbootstrap.com/components/popovers/), [modals](https://v4-alpha.getbootstrap.com/components/modal/), [scrollspy](https://v4-alpha.getbootstrap.com/components/scrollspy/), etc.
 
-Para usar [Bootstrap](http://getbootstrap.com/) necesitamos iniciar un documento HTML con lo siguiente:
+Para usar [Bootstrap](http://getbootstrap.com/) necesitamos partir por un documento `index.html` donde se escriba:
 
 ```
 <!DOCTYPE html>
@@ -97,7 +97,7 @@ Fluidos
 </div>
 ```
 
-Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). En caso necesiten un pequeño resumen, con información justa y necesaria para dar este paso, pueden [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, puedes echarle un vistazo al contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/).
+Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, se recomienda [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, puedes echarle un vistazo al contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
 _____
 
 ## INTRODUCCIÓN A PHP
