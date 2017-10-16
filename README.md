@@ -91,7 +91,7 @@ Para usar [Bootstrap](http://getbootstrap.com/) necesitamos partir por un docume
 
 ```
 
-Luego, se puede cambiar el `<h1>Hola mundo!</h1>` por todo lo que conozcamos de HTML y sea considerado en el CSS de Bootstrap. Para esto, es necesario tener en cuanta que Bootstrap, por defecto, divide cada fila con una [grilla de 12 columnas](https://getbootstrap.com/docs/4.0/layout/grid/). Y pone a las filas dentro de contenedores, que pueden ser: 
+Luego podríamos cambiar el `<h1>Hola mundo!</h1>` por todo lo que conozcamos de HTML y sea considerado en el CSS de Bootstrap. Para esto, es necesario tener en cuenta que Bootstrap, por defecto, divide cada fila con [sistema de 12 columnas](https://getbootstrap.com/docs/4.0/layout/grid/), y pone a las filas dentro de contenedores, que pueden ser: 
 
 Fijos
 ```
@@ -113,18 +113,16 @@ Fluidos
 </div>
 ```
 
-En caso que no estás muy familiarizado con HTML, CSS ni JavaScript, recomendamos [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces estos lenguajes, puedes revisar el contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
+En caso que no estés muy familiarizado con HTML, CSS ni JavaScript, recomendamos [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces estos lenguajes, puedes revisar el contenido de la [carpeta 01-boostrap](https://profesorfaco.github.io/enedi/01-bootstrap/), donde encontrarás más datos sobre [Bootstrap](http://getbootstrap.com/).
 _____
 
 ## INTRODUCCIÓN A PHP
 
 Este lenguaje de programación se ejecuta [del lado del servidor](https://es.wikipedia.org/wiki/Script_del_lado_del_servidor), afectando al documento completo antes de que éste sea enviado al [cliente](https://es.wikipedia.org/wiki/Cliente_(inform%C3%A1tica)). Por esto, nunca aparece al “ver código fuente”, ni existe una Consola de PHP en los navegadores.
 
-Para que se ejecute PHP en sus computadores, se pueden usar programas como **[MAMP](https://www.mamp.info/en/)**, el que permite montar un servidor local. 
+**Para ejecutar PHP en nuestros computadores** podemos usar programas como [MAMP](https://www.mamp.info/en/). **Para escribir PHP en nuestros computadores** podemos usar el mismo programa de código que usamos para escribir HTML. Es más, la diferencia radical de un documento `*.php` y un `*.html` es su extensión. Esta permite al servidor identificarlo como tal y buscar, entre lo que es HTML, un par de etiquetas de apertura y cierre particulares, que son `<?php` y `?>`, donde estarán las intrucciones que debe ejecutar.
 
-Para escribir PHP en sus computadores deben usar el mismo programa de código que usan para escribe HTML. Es más, la diferencia radical de un documento `*.php` y un `*.html` es su extensión. Esta permite al servidor identificarlo como tal y buscar, entre lo que es HTML, un par de etiquetas de apertura y cierre particulares, que son `<?php` y `?>`, donde estarán las intrucciones que debe ejecutar.
-
-Entre `<?php` y `?>` se pueden escribir una o varias instrucciones. Si se escriben varias, éstas deben separarse mediante punto y coma `;`. Y si necesitan escribir comentarios de una línea, deben anteponer un doble slash `//`:
+Entre `<?php` y `?>` podemos escribir una o varias instrucciones. Si escribimos varias, tenemos que separarlas mediante punto y coma `;`. Y si necesitamos escribir comentarios de una línea, tenemos que anteponer un doble slash `//`:
 
 ```
 <?php 
@@ -138,6 +136,8 @@ $c=$a*$b;
 Lo que resulta de esto es un [elemento HTML párrafo con un contenido "50"](http://codepad.org/ASfDKGBe).
 
 Entre las instrucciones podemos aprovechar las funciones internas (incluídas) de PHP; es muy dificil que exista alguien capaz de aprender de memoria todas las `funciones()` que ofrece este lenguaje de programación, pero en el [sitio oficial de PHP](http://php.net/manual/es/langref.php), y en [varios lugares más](http://stackoverflow.com/questions/tagged/php), se puede encontrar mucha ayuda.
+
+Para nuestro trabajo será suficiente aprovechar las funciones contenidas en la [carpeta 02-php](https://profesorfaco.github.io/enedi/02-php/).
 
 _____
 
