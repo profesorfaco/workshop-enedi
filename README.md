@@ -97,15 +97,7 @@ Fluidos
 </div>
 ```
 
-Para el ajuste y optimización a distintos dispositivos, se pueden tomar distintas de filas de la grilla. Puedo, por ejemplo:
-
-- tomar 6 cuando sea una pantalla muy pequeña (<576px): `col-6`
-- tomar 4 cuando sea una pantalla pequeña (≥576px): `col-sm-4`
-- tomar 3 cuando sea una pantalla mediana (≥768px): `col-md-3`
-- tomar 2 cuando sea una pantalla grande (≥992px): `col-lg-2`
-- tomar 1 cuando sea una pantalla muy grande (≥1200px): `col-xl-1`
-
-Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). En caso necesiten un pequeño resumen, con información justa y necesaria para dar este paso, pueden [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, bien puedes avanzar a la [INTRODUCCIÓN A PHP](https://github.com/profesorfaco/enedi#introducciÓn-a-php).
+Ahora bien, si no estás muy familiarizado con HTML, CSS ni JavaScript, podría resultar un poco difícil dar el primer paso con [Bootstrap](http://getbootstrap.com/). En caso necesiten un pequeño resumen, con información justa y necesaria para dar este paso, pueden [consultar la Wiki de este repositorio](https://github.com/profesorfaco/enedi/wiki). Si ya conoces esos lenguajes, puedes echarle un vistazo al contenido de la carpeta 01-boostrap.
 _____
 
 ## INTRODUCCIÓN A PHP
