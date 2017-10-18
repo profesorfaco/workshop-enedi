@@ -42,7 +42,7 @@ Ahora salgamos del texto de Boehm y quedemos en el mismo año. En **1786**, Thom
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-**En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista)**.
+**En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista). Visualizar implican hacer visible (se puede ver, tan cierto y evidente que no admite duda). Visibilizar implica develar.**.
 
 Para evitar confusiones, parece más seguro avanzar a **trabajos de la segunda mitad del siglo XIX, que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos**, en tanto se trata de trabajos que nos entregan la posibilidad de comprender lo uno, que no puede verse, mientras lo otro es dado a la vista.
 
