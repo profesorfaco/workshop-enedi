@@ -42,7 +42,7 @@ Ahora salgamos del texto de Boehm y quedemos en el mismo año. En **1786**, Thom
 
 ![Slave Ship](https://readthespirit-wpengine.netdna-ssl.com/interfaith-peacemakers/wp-content/uploads/sites/25/2015/05/Thomas-Clarkson-Slave-Ship-Sketch.jpg)
 
-En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista). **Visualizar implican hacer visible (se puede ver, tan cierto y evidente que no admite duda). Visibilizar implica develar.**
+En lo recién presentado tenemos, primero, un visualizar (representar mediante imágenes fenómenos de otro carácter) y luego un visibilizar (hacer visible artificialmente lo que no puede verse a simple vista). **Visualizar implica hacer visible (se puede ver, tan cierto y evidente que no admite duda). Visibilizar implica develar.**
 
 Para evitar confusiones, parece más seguro avanzar a **trabajos de la segunda mitad del siglo XIX, que son referencia habitual al momento de hablar del origen de la representación gráfica en términos de visualización de datos**, en tanto se trata de trabajos que nos entregan la posibilidad de comprender lo uno, que no puede verse, mientras lo otro es dado a la vista.
 
@@ -145,7 +145,7 @@ Lo que resulta de esto es un [elemento HTML párrafo con un contenido "50"](http
 
 Entre las instrucciones podemos aprovechar las funciones internas (incluídas) de PHP; es muy dificil que exista alguien capaz de aprender de memoria todas las `funciones()` que ofrece este lenguaje de programación, pero en el [sitio oficial de PHP](http://php.net/manual/es/langref.php), y en [varios lugares más](http://stackoverflow.com/questions/tagged/php), se puede encontrar mucha ayuda.
 
-Para nuestro trabajo será suficiente aprovechar las funciones contenidas en la [carpeta 02-php](https://profesorfaco.github.io/enedi/02-php/).
+Por ahora, será suficiente aprovechar las funciones contenidas en la [carpeta 02-php](https://github.com/profesorfaco/enedi/tree/gh-pages/02-php). Después de revisar los formatos de datos volveremos sobre PHP, con una nueva carpeta.
 
 _____
 
@@ -153,7 +153,9 @@ _____
 
 Podemos echar un vistazo a la introducción a los formatos de datos más conocidos y usados, preparada por [Ricardo Vega](https://issuu.com/ricardov_net/docs/datos_formatos_2016).
 
-Con lo revisado hasta ahora, podemos hacer dos ejercicio de visualización. En el primero podemos consultar y visualizar los datos de un CSV y en el segundo los datos de un JSON. Esta consulta y visualización la podemos hacer con PHP, y aprovechándonos de Bootstrap. 
+Especial atención le vamos a poner a 2 formatos de datos: JSON y CSV. 
+
+Con lo revisado hasta ahora, podemos hacer un primer ejercicio de visualización. Para eso vamos usar los contenidos en la [carpeta 03-php](https://github.com/profesorfaco/enedi/tree/gh-pages/03-php), que incluyen obviamente algunos archivos en PHP y algunos datos en JSON. Con esos datos fabricaremos algunas tablas. Y una de esas tablas la exportaremos como CSV, lo que nos permitirá hacer otro ejercicio.
 
 _____
 
