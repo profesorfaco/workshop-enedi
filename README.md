@@ -32,7 +32,7 @@ A continuación, un par de ideas obtenidas de: Boehm, Gottfried (2011) *¿Más a
 
 «**Cuando hablo de imágenes (bidimensionales, plásticas, técnicas, espaciales, etc.), me refiero a una diferencia según la cual** uno o varios focos temáticos, vinculados por nuestra atención, refieren a un campo no temático. Es decir, que **vemos lo uno en lo otro**.» (Boehm 2010:101)
 
-«Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica (*das Diagramm* en versión original, esto es la representación gráfica de relaciones de tamaño o valores numéricos). **La [representación] gráfica (…) [t]raslada lo más abstracto (…) a una configuración visual que *muestra* lo que nunca podría verse sin más en columnas de números**». (Boehm 2010:104-105) 
+«Bien entrada la segunda mitad del siglo XVIII [surgió] la forma de imagen cognitiva de mayor éxito y que todavía hoy es ominipresente: la gráfica [*das Diagramm* en versión original, esto es la representación gráfica de relaciones de tamaño o valores numéricos]. **La [representación] gráfica (…) [t]raslada lo más abstracto (…) a una configuración visual que *muestra* lo que nunca podría verse sin más en columnas de números**». (Boehm 2010:104-105) 
 
 Boehm ilustra su texto con una publicación de **1786** de [William Playfair](https://es.wikipedia.org/wiki/William_Playfair) (1759-1823), el padre de los gráficos de estadística:
 
