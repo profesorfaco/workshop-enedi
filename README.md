@@ -162,9 +162,18 @@ Con lo revisado hasta ahora, podemos hacer un primer ejercicio de visualización
 _____
 
 
-## INTRODUCCIÓN A D3
+## INTRODUCCIÓN A D3.JS
+
+Para continuar, utilicemos las siguientes referencias:
 
 - [Introducción D3](https://visualizacion-uc.github.io/introduccion-js-d3/bloque-I/d3.html)
 - [D3: gráfico de barras](https://visualizacion-uc.github.io/introduccion-js-d3/bloque-II/barras.html)
 - [Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
+
+Notarán, por las referencias, que es necesario tener claro qué es, y para que sirven: [HTML](https://github.com/profesorfaco/enedi/wiki/HTML), [CSS](https://github.com/profesorfaco/enedi/wiki/CSS), [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript) y [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction). Además, conviene tener claro la utilidad de una etiqueta HTML en particular, la de `<canvas></canvas>`
+
+Para seguir avanzando con ejemplos, veamos: 
+
+- [carpeta 04-svg-d3](https://github.com/profesorfaco/enedi/tree/gh-pages/04-svg-d3)
+- [carpeta 05-circles](https://github.com/profesorfaco/enedi/tree/gh-pages/05-circles)
