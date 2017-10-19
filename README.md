@@ -177,3 +177,6 @@ Notarán, por las referencias, que es necesario tener claro qué es, y para que 
 
 - [carpeta 04-svg-d3](https://github.com/profesorfaco/enedi/tree/gh-pages/04-svg-d3)
 - [carpeta 05-circles](https://github.com/profesorfaco/enedi/tree/gh-pages/05-circles)
+- [carpeta 06-ejemplo](https://github.com/profesorfaco/enedi/tree/gh-pages/06-ejemplo)
+
+-----
