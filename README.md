@@ -173,7 +173,7 @@ Para continuar, utilicemos las siguientes referencias:
 
 Notarán, por las referencias, que es necesario tener claro qué es, y para que sirven: [HTML](https://github.com/profesorfaco/enedi/wiki/HTML), [CSS](https://github.com/profesorfaco/enedi/wiki/CSS), [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript) y [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction). Además, conviene tener claro la utilidad de una etiqueta HTML en particular, la de `<canvas></canvas>`
 
-Para seguir avanzando con ejemplos, veamos: 
+**Para seguir avanzando con ejemplos, veamos:** 
 
 - [carpeta 04-svg-d3](https://github.com/profesorfaco/enedi/tree/gh-pages/04-svg-d3)
 - [carpeta 05-circles](https://github.com/profesorfaco/enedi/tree/gh-pages/05-circles)
