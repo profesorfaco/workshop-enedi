@@ -4,7 +4,7 @@
 
 
 //selecciona la caja y allí agrega un svg (.append)
-d3.select('#caja')
+d3.select('#dibujo')
 	.append('svg')
 		.attr('width', 600)
 		.attr('height', 400)
