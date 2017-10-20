@@ -180,3 +180,12 @@ Notarán, por las referencias, que es necesario tener claro qué es, y para que 
 - [carpeta 06-ejemplo](https://github.com/profesorfaco/enedi/tree/gh-pages/06-ejemplo)
 
 -----
+
+_____
+
+
+## UN DESVÍO A P5.JS
+
+- [carpeta 07-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/07-p5js)
+- [carpeta 08-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/08-p5js)
+
