@@ -153,7 +153,11 @@ _____
 
 Podemos echar un vistazo a la introducción a los formatos de datos más conocidos y usados, preparada por [Ricardo Vega](https://issuu.com/ricardov_net/docs/datos_formatos_2016).
 
-Especial atención le vamos a poner a 2 formatos de datos: JSON y CSV. 
+Especial atención le vamos a poner a 2 formatos de datos: 
+
+- JSON (JavaScript Object Notation) es una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos. Está basado en JavaScript, pero es completamente independiente de este lenguaje y cualquier otro, aun cuando utiliza convenciones que son ampliamente conocidos por programadores.
+
+- CSV (comma-separated values) no es un formato estándar. Es un tipo de documento que representa datos de tablas, reemplazando columnas y filas con comas y saltos de línea.
 
 Con lo revisado hasta ahora, podemos hacer un primer ejercicio de visualización. Para eso vamos usar los contenidos en la [carpeta 03-php](https://github.com/profesorfaco/enedi/tree/gh-pages/03-php), que incluyen obviamente algunos archivos en PHP y algunos datos en JSON. Con esos datos fabricaremos algunas tablas. Y una de esas tablas la exportaremos como CSV, lo que nos permitirá hacer otro ejercicio. 
 
