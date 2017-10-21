@@ -204,9 +204,9 @@ Puedes encontrar referencias de p5.js, traduciéndose al castellano, en [https:/
 - [JSON](https://p5js.org/es/reference/#/p5/loadJSON)
 - [CSV](https://p5js.org/es/reference/#/p5/loadTable)
 
-Tales [formatos de datos](https://github.com/profesorfaco/enedi/blob/gh-pages/README.md#introducciÓn-a-formatos-de-datos), a los que conviene ponerle mayor atención, también son incorporados en este lenguaje.
+Tales [formatos de datos](https://github.com/profesorfaco/enedi/blob/gh-pages/README.md#introducciÓn-a-formatos-de-datos), a los que conviene ponerle mayor atención, también son incorporados en esta biblioteca.
 
-A continuación pueden encontrar 2 ejemplos del trabajo con p5.js en las siguientes carpetas:
+Pueden encontrar 2 ejemplos del trabajo con p5.js en las siguientes carpetas:
 
 - [carpeta 07-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/07-p5js)
 - [carpeta 08-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/08-p5js)
