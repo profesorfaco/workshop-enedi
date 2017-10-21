@@ -159,9 +159,7 @@ Especial atención le vamos a poner a 2 formatos de datos:
 
 - CSV (comma-separated values) no es un formato estándar. Es un tipo de documento que representa datos de tablas, reemplazando columnas y filas con comas y saltos de línea.
 
-Con lo revisado hasta ahora, podemos hacer un primer ejercicio de visualización. Para eso vamos usar los contenidos en la [carpeta 03-php](https://github.com/profesorfaco/enedi/tree/gh-pages/03-php), que incluyen obviamente algunos archivos en PHP y algunos datos en JSON. Con esos datos fabricaremos algunas tablas. Y una de esas tablas la exportaremos como CSV, lo que nos permitirá hacer otro ejercicio. 
-
-**PUEDEN ENCONTRAR UNA VERSIÓN MEJORADA DE LA CARPETA 03-PHP EN [03.5-PHP](https://github.com/profesorfaco/enedi/tree/gh-pages/03.5-php)**. Cuando pongan esto en un servidor, debe verse así: [http://profesor.faco.cl/enedi-03.5-php/](http://profesor.faco.cl/enedi-03.5-php/)
+Con lo revisado hasta ahora, podemos hacer un primer ejercicio de visualización. Para eso vamos usar los contenidos en **[03.5-PHP](https://github.com/profesorfaco/enedi/tree/gh-pages/03.5-php)**, que incluyen obviamente algunos archivos en PHP y algunos datos en JSON. Con esos datos fabricaremos algunas tablas. Y una de esas tablas la exportaremos como CSV.
 
 _____
 
