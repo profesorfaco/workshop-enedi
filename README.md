@@ -211,4 +211,4 @@ Pueden encontrar 2 ejemplos del trabajo con p5.js en las siguientes carpetas:
 - [carpeta 07-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/07-p5js)
 - [carpeta 08-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/08-p5js)
 
-Para seguir aprendiendo de JavaScript y uso de datos, por la vía de p5.js y Processing, pueden aprovechar los tutoriales que Daniel Shiffman sube a youtube. En particular, se recomienda: [Introduction to Data and APIs in JavaScript - p5.js Tutorial](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+Para seguir aprendiendo de JavaScript y uso de datos, por la vía de p5.js y Processing, pueden aprovechar los tutoriales que [Daniel Shiffman](http://thecodingtrain.com/) sube a YouTube. En particular, se recomienda: [Introduction to Data and APIs in JavaScript - p5.js Tutorial](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
