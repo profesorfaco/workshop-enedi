@@ -171,7 +171,7 @@ Para continuar, utilicemos las siguientes referencias:
 - [Intro to D3.JS](http://square.github.io/intro-to-d3/)
 - [d3/d3Wiki](https://github.com/d3/d3/wiki/tutorials)
 
-Notarán, por las referencias, que es necesario tener claro qué es, y para que sirven: [HTML](https://github.com/profesorfaco/enedi/wiki/HTML), [CSS](https://github.com/profesorfaco/enedi/wiki/CSS), [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript) y [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction). Además, conviene tener claro la utilidad de una etiqueta HTML en particular, la de `<canvas></canvas>`
+Notemos, por las referencias, que es necesario tener claro qué es, y para que sirven: [HTML](https://github.com/profesorfaco/enedi/wiki/HTML), [CSS](https://github.com/profesorfaco/enedi/wiki/CSS), [JavaScript](https://github.com/profesorfaco/enedi/wiki/JavaScript) y [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction). Además, nos conviene tener claro la utilidad de una etiqueta HTML en particular, la de `<canvas></canvas>`
 
 **Para seguir avanzando con ejemplos, veamos:** 
 
@@ -181,11 +181,34 @@ Notarán, por las referencias, que es necesario tener claro qué es, y para que 
 
 -----
 
-_____
-
-
 ## UN DESVÍO A P5.JS
+
+[p5.js](https://p5js.org/download/) es una biblioteca de JavaScript creada con el objetivo original de [Processing](https://www.processing.org/): hacer la programación accesible a artistas, diseñadores, educadores y principiantes. 
+
+Quien ya conozca Processing, no tendrá mayores problemas para entender lo que sigue: 
+
+```
+function setup(){
+	//colocas acá lo que se ejecuta una única vez
+}
+
+function draw(){
+	//colocas acá lo que necesitas dibujar una y otra vez
+}
+```
+
+Pero, a [Lauren McCarthy](http://lauren-mccarthy.com/about), la creadora de p5.js, no les gusta referirse a esta biblioteca de JavaScript como una traducción, en tanto se trata de una completa reinterpretación.
+
+Puedes encontrar referencias de p5.js, traduciéndose al castellano, en [https://p5js.org/es/reference/](https://p5js.org/es/reference/). En la misma página pueden encontrar referencias, aún no traducidas, para el uso de: 
+
+- [JSON](https://p5js.org/es/reference/#/p5/loadJSON)
+- [CSV](https://p5js.org/es/reference/#/p5/loadTable)
+
+Tales [formatos de datos](https://github.com/profesorfaco/enedi/blob/gh-pages/README.md#introducciÓn-a-formatos-de-datos), a los que conviene ponerle mayor atención, también son incorporados en este lenguaje.
+
+A continuación pueden encontrar 2 ejemplos del trabajo con p5.js en las siguientes carpetas:
 
 - [carpeta 07-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/07-p5js)
 - [carpeta 08-p5js](https://github.com/profesorfaco/enedi/tree/gh-pages/08-p5js)
 
+Para seguir aprendiendo de JavaScript y uso de datos, por la vía de p5.js y Processing, pueden aprovechar los tutoriales que Daniel Shiffman sube a youtube. En particular, se recomienda: [Introduction to Data and APIs in JavaScript - p5.js Tutorial](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
