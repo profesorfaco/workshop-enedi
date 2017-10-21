@@ -201,7 +201,7 @@ function draw(){
 }
 ```
 
-Pero, a [Lauren McCarthy](http://lauren-mccarthy.com/about), la creadora de p5.js, no les gusta referirse a esta biblioteca de JavaScript como una traducción, en tanto se trata de una completa reinterpretación.
+Pero, a [Lauren McCarthy](http://lauren-mccarthy.com/about), la creadora de p5.js, no le gusta referirse a esta biblioteca de JavaScript como una traducción de Processing, en tanto se trata de una completa reinterpretación.
 
 Puedes encontrar referencias de p5.js, traduciéndose al castellano, en [https://p5js.org/es/reference/](https://p5js.org/es/reference/). En la misma página pueden encontrar referencias, aún no traducidas, para el uso de: 
 
