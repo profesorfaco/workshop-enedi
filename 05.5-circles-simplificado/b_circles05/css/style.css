@@ -1,0 +1,14 @@
+body {
+    background: LightCyan;
+    font-size: 10px;
+}
+.ejes path,
+.ejes line {
+    fill: none;
+    stroke: blue;
+    shape-rendering: crispEdges;
+}
+.ejes text {
+    font-family: sans-serif;
+    font-size: 14px;
+}
