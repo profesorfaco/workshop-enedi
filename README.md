@@ -155,7 +155,7 @@ Podemos echar un vistazo a la introducción a los formatos de datos más conocid
 
 Especial atención le vamos a poner a 2 formatos de datos: 
 
-- JSON (JavaScript Object Notation) es una sintaxis para serializar objetos, arreglos, números, cadenas, booleanos y nulos. Está basado en JavaScript, pero es completamente independiente de este lenguaje y cualquier otro, aun cuando utiliza convenciones que son ampliamente conocidos por programadores.
+- JSON (JavaScript Object Notation) es un formato para el intercambio de datos. Con JSON es posible intercambiar booleanos (true o false), números (integer, float), strings (cadenas de caracteres alfanuméricos entre comillas), arreglos [entre paréntesis cuadrados], y objetos {entre paréntesis de llave}. Está basado en JavaScript, pero es completamente independiente de este lenguaje y cualquier otro, aun cuando utiliza convenciones que son ampliamente conocidas por programadores.
 
 - CSV (comma-separated values) no es un formato estándar. Es un tipo de documento que representa datos de tablas, reemplazando columnas y filas con comas y saltos de línea.
 
